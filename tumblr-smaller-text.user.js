@@ -98,4 +98,4 @@
             $(td2).insertAfter($(v).parent());
         }
     }
-)();
+})();
